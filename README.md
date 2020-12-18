@@ -1,2 +1,2 @@
 # math.p4
-Library containing implementations of mathematical functions in P4
+Library containing implementation of mathematical functions in P4
